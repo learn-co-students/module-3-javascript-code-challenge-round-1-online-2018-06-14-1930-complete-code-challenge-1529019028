@@ -1,3 +1,5 @@
 class Comment {
-  
+  constructor(comment) {
+
+  }
 }
